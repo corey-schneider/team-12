@@ -15,11 +15,37 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
 9. [ PPT Video ](#ppt)
   
 <a name="intro"></a>  
-### 1. Introduction  
-  
+### Introduction
 hello  
   
 <a name="use-case"></a>  
-### 2. Use Case for Rating System
-  
-hi
+### Use Case for Rating System
+hi use case
+
+<a name="business-rules"></a>  
+### Business Rules
+hi business rules
+
+<a name="eerd"></a>  
+### EERD
+hi eerd
+
+<a name="mysql-queries"></a>  
+### MySQL Queries
+hi mysql queries
+
+<a name="stored-procedure"></a>  
+### Stored Procedure
+hi stored procedure
+
+<a name="changeme"></a>  
+### Changeme
+hello changeme
+
+<a name="mysql-dump"></a>  
+### MySQL dump
+hi mysql dump
+
+<a name="ppt"></a>  
+### PPT Video
+hi ppt video
