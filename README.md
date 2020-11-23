@@ -31,9 +31,11 @@ The idea of this project is that we are enhancing a system for an existing datab
 <a name="business-rules"></a>  
 ### Business Rules
 * The project adds a rating system to an already existing database, the ratings are applied to both the restaurants and the delivery drivers.
+* Persons can be faculty, staff, and students.
 * Persons can also be drivers, all delivery drivers are students.
 * A person can order food one to many times, an individual order is tied to only one person for the order.
 * The orders are for only one restaurant.
+* The order can only have one location.
 * The items on the order will only need to keep the total price and delivery charge, as well as keep the driver and delivery times.
 * Locations where the food can be delivered, as well as a food delivery drop-off are included in the database.
 
