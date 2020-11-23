@@ -28,8 +28,8 @@ hi use case
 
 <a name="business-rules"></a>  
 ### Business Rules
-* The project 
-* Customer
+* The project adds a rating system to an already existing database, the ratings are applied to both the restaurants and the delivery drivers.
+* Persons can also be drivers, all delivery drivers are students.
 * Pog
 * Champ
 * ion
