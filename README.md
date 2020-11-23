@@ -8,6 +8,7 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
 2. [ Use Case for Rating System ](#use-case)
 3. [ Business Rules](#business-rules)
 4. [ EERD ](#eerd)
+4. [ Data Dictionary ](#DataDictionary)
 5. [ MySQL Queries](#mysql-queries)
 6. [ Stored Procedure](#stored-procedure)
 7. [ Web/App implementation or description of future work](#changeme)
