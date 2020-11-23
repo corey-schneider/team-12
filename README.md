@@ -23,7 +23,8 @@ The idea of this project is that we are enhancing a system for an existing datab
 
 <a name="use-case"></a>  
 ### Use Case for Rating System
-hi use case
+![CD1](https://user-images.githubusercontent.com/57717125/99924725-5ccfa600-2d09-11eb-8414-fd4f727cb90b.png)
+
 
 <hr>
 
