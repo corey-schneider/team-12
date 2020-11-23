@@ -16,7 +16,7 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
   
 <a name="intro"></a>  
 ### Introduction
-hello  
+The idea of this project is that we are creating a system for an existing database with a rating system for both the restaurants and the delivery drivers.
 
 <hr>
 
@@ -28,7 +28,11 @@ hi use case
 
 <a name="business-rules"></a>  
 ### Business Rules
-hi business rules
+* The project 
+* Customer
+* Pog
+* Champ
+* ion
 
 <hr>
 
