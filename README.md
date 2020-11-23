@@ -30,9 +30,10 @@ hi use case
 ### Business Rules
 * The project adds a rating system to an already existing database, the ratings are applied to both the restaurants and the delivery drivers.
 * Persons can also be drivers, all delivery drivers are students.
-* Pog
-* Champ
-* ion
+* A person can order food one to many times, an individual order is tied to only one person for the order.
+* The orders are for only one restaurant.
+* The items on the order will only need to keep the total price and delivery charge, as well as keep the driver and delivery times.
+* Locations where the food can be delivered, as well as a food delivery drop-off are included in the database.
 
 <hr>
 
