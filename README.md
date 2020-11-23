@@ -39,6 +39,12 @@ hi business rules
 
 <hr>
 
+<a name="DataDictionary"></a>  
+### Data Dictionary
+![DD1SS](https://user-images.githubusercontent.com/57717125/99921653-c8aa1280-2cf9-11eb-9b20-dfbc06cded2f.png)
+
+<hr>
+
 <a name="mysql-queries"></a>  
 ### MySQL Queries
 hi mysql queries
