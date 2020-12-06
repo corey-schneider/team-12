@@ -75,7 +75,7 @@ hello changeme
 
 <a name="mysql-dump"></a>  
 ### MySQL dump
-hi mysql dump
+See Dump File at the top of repository.
 
 <hr>
 
