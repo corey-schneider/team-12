@@ -43,14 +43,15 @@ The idea of this project is to enhance a system for an existing database by addi
 
 <a name="eerd"></a>  
 ### EERD
-![DBScreenshot](https://user-images.githubusercontent.com/57717125/99919416-56cacc80-2ceb-11eb-99d8-7b1d0f4f2cb6.png)
+![UpdatedERD](https://user-images.githubusercontent.com/57717125/101294300-6dd9e600-37e4-11eb-9d04-ecd3e7a74e57.png)
 
+Narrative: This erd 
 
 <hr>
 
 <a name="DataDictionary"></a>  
 ### Data Dictionary
-![DD1SS](https://user-images.githubusercontent.com/57717125/99921653-c8aa1280-2cf9-11eb-9b20-dfbc06cded2f.png)
+![DD2SC](https://user-images.githubusercontent.com/57717125/101294309-7b8f6b80-37e4-11eb-97aa-94efba01351a.png)
 
 <hr>
 
