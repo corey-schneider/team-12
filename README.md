@@ -17,7 +17,7 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
   
 <a name="intro"></a>  
 ### Introduction
-The idea of this project is to enhance a system for an existing database by adding a rating system. The system is a food delivery service to campus for students and falculty. This rating system will allow users to leave ratings for both the restaurants and the delivery drivers.
+The idea of this project is to enhance a system for an existing database by adding a rating system. The system is a food delivery service to campus for students and faculty. This rating system will allow users to leave ratings for both the restaurants and the delivery drivers.
 
 <hr>
 
