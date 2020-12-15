@@ -57,12 +57,16 @@ Narrative: This erd displays the relationships of a food delivery service handle
 
 <a name="mysql-queries"></a>  
 ### MySQL Queries
-hi mysql queries
+![Screenshot (150)](https://user-images.githubusercontent.com/57717125/102268191-fe04e300-3ee8-11eb-82f6-ab985804c473.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/57717125/102268330-2d1b5480-3ee9-11eb-8be4-d774c9e85930.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/57717125/102268228-09f0a500-3ee9-11eb-99b4-eb4991e81a79.png)
+![Screenshot (153)](https://user-images.githubusercontent.com/57717125/102268345-33a9cc00-3ee9-11eb-8366-9c1ccbd1cbcf.png)
 
 <hr>
 
 <a name="stored-procedure"></a>  
 ### Stored Procedure
+Procedures that get the average ratings as well as get the ratings tables.
 ![Screenshot (144)](https://user-images.githubusercontent.com/57717125/102252678-5bdb0000-3ed4-11eb-89c5-b4ad6bced6a7.png)
 ![Screenshot (145)](https://user-images.githubusercontent.com/57717125/102252721-6ac1b280-3ed4-11eb-9011-c88971907105.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/57717125/102252745-7319ed80-3ed4-11eb-9baa-91c953cf75ea.png)
