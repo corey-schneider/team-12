@@ -69,9 +69,16 @@ Narrative: This erd displays the relationships of a food delivery service handle
 ### Stored Procedure
 Procedures that get the average ratings as well as get the ratings tables.
 ![Screenshot (144)](https://user-images.githubusercontent.com/57717125/102252678-5bdb0000-3ed4-11eb-89c5-b4ad6bced6a7.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/57717125/102284813-e33f6800-3f02-11eb-88c3-58cbe45f297a.png)
+
 ![Screenshot (145)](https://user-images.githubusercontent.com/57717125/102252721-6ac1b280-3ed4-11eb-9011-c88971907105.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/57717125/102284829-edf9fd00-3f02-11eb-812c-3d990ac5188b.png)
+
 ![Screenshot (148)](https://user-images.githubusercontent.com/57717125/102252745-7319ed80-3ed4-11eb-9baa-91c953cf75ea.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/57717125/102284847-f94d2880-3f02-11eb-89a0-3a47f52f3475.png)
+
 ![Screenshot (149)](https://user-images.githubusercontent.com/57717125/102252759-79a86500-3ed4-11eb-9cc5-16c047ad2bb5.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/57717125/102284858-00743680-3f03-11eb-8e40-2e9303fccda4.png)
 
 
 <hr>
