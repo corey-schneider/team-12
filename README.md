@@ -63,7 +63,11 @@ hi mysql queries
 
 <a name="stored-procedure"></a>  
 ### Stored Procedure
-hi stored procedure
+![Screenshot (144)](https://user-images.githubusercontent.com/57717125/102252678-5bdb0000-3ed4-11eb-89c5-b4ad6bced6a7.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/57717125/102252721-6ac1b280-3ed4-11eb-9011-c88971907105.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/57717125/102252745-7319ed80-3ed4-11eb-9baa-91c953cf75ea.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/57717125/102252759-79a86500-3ed4-11eb-9cc5-16c047ad2bb5.png)
+
 
 <hr>
 
