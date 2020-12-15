@@ -45,7 +45,7 @@ The idea of this project is to enhance a system for an existing database by addi
 ### EERD
 ![UpdatedERD](https://user-images.githubusercontent.com/57717125/101294300-6dd9e600-37e4-11eb-9d04-ecd3e7a74e57.png)
 
-Narrative: This erd displays the relationships of a food delivery service handled by a university. Restaurants make food based on the orders made. Students are drivers that deliver food to an address. Restaurants and Drivers are given ratings based on their on performance and quality.
+Narrative: This ERD displays the relationships of a food delivery service handled by a university. Restaurants make food based on the orders made. Students are drivers that deliver food to an address. Restaurants and Drivers are given ratings based on their on performance and quality.
 
 <hr>
 
