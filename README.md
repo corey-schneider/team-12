@@ -12,9 +12,8 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
 6. [ MySQL Queries](#mysql-queries)
 7. [ Stored Procedure](#stored-procedure)
 8. [ Index ](#index)
-9. [ Web/App implementation or description of future work](#changeme)
-10. [ MySQL dump ](#mysql-dump)
-11. [ PPT Video ](#ppt)
+9. [ MySQL dump ](#mysql-dump)
+10. [ Video ](#video)
   
 <a name="intro"></a>  
 ### Introduction
@@ -92,11 +91,7 @@ Procedures that get the average ratings as well as get the ratings tables.
 
 
 
-<hr>
-
-<a name="changeme"></a>  
-### Changeme
-hello changeme
+<a name="changeme"></a>
 
 <hr>
 
@@ -106,6 +101,6 @@ See Dump File at the top of repository, "CampusFeedSqlDumpV2.sql".
 
 <hr>
 
-<a name="ppt"></a>  
+<a name="video"></a>  
 ### Video
-The video for Deliverable 4 is located at the top of the page!
+<a href="https://youtu.be/bZ07SLZEjvE">ITCS 3160 - Team 12 Deliverable 4 Video</a>
