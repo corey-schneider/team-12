@@ -100,5 +100,5 @@ See Dump File at the top of repository, "CampusFeedSqlDump.sql".
 <hr>
 
 <a name="ppt"></a>  
-### PPT Video
-hi ppt video
+### Video
+The video for Deliverable 4 is located at the top of the page!
