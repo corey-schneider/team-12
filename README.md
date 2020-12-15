@@ -8,12 +8,13 @@ Corey Schneider || Josh Clinkscales || Avimael Obispo || James Perez || Nicholas
 2. [ Use Case for Rating System ](#use-case)
 3. [ Business Rules](#business-rules)
 4. [ EERD ](#eerd)
-4. [ Data Dictionary ](#DataDictionary)
-5. [ MySQL Queries](#mysql-queries)
-6. [ Stored Procedure](#stored-procedure)
-7. [ Web/App implementation or description of future work](#changeme)
-8. [ MySQL dump ](#mysql-dump)
-9. [ PPT Video ](#ppt)
+5. [ Data Dictionary ](#DataDictionary)
+6. [ MySQL Queries](#mysql-queries)
+7. [ Stored Procedure](#stored-procedure)
+8. [ Index ](#index)
+9. [ Web/App implementation or description of future work](#changeme)
+10. [ MySQL dump ](#mysql-dump)
+11. [ PPT Video ](#ppt)
   
 <a name="intro"></a>  
 ### Introduction
@@ -71,6 +72,13 @@ Procedures that get the average ratings as well as get the ratings tables.
 ![Screenshot (145)](https://user-images.githubusercontent.com/57717125/102252721-6ac1b280-3ed4-11eb-9011-c88971907105.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/57717125/102252745-7319ed80-3ed4-11eb-9baa-91c953cf75ea.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/57717125/102252759-79a86500-3ed4-11eb-9cc5-16c047ad2bb5.png)
+
+
+<hr>
+
+<a name="index"></a>  
+### Index
+
 
 
 <hr>
