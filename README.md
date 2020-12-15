@@ -95,7 +95,7 @@ hello changeme
 
 <a name="mysql-dump"></a>  
 ### MySQL dump
-See Dump File at the top of repository, "CampusFeedSqlDump.sql".
+See Dump File at the top of repository, "CampusFeedSqlDumpV2.sql".
 
 <hr>
 
