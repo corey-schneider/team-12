@@ -78,6 +78,10 @@ Procedures that get the average ratings as well as get the ratings tables.
 
 <a name="index"></a>  
 ### Index
+![Screenshot (160)](https://user-images.githubusercontent.com/57717125/102275797-eda63580-3ef3-11eb-8941-2359979b8f6a.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/57717125/102275839-ff87d880-3ef3-11eb-9952-5508bf5ff5ad.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/57717125/102275977-2fcf7700-3ef4-11eb-9c64-b50dcb56bb73.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/57717125/102275998-35c55800-3ef4-11eb-99ce-b2bb150c5640.png)
 
 
 
